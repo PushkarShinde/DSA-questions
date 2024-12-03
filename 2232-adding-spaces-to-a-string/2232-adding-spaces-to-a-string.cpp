@@ -5,7 +5,6 @@ public:
         int sp=0;
         for (int i=0; i<s.length();i++){
             if(sp< spaces.size() && i==spaces[sp]){
-                result+=' ';
                 sp++;
             }
             result+=s[i];
