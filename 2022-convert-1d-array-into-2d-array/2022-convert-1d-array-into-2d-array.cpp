@@ -5,9 +5,10 @@ public:
         if (original.size() != m * n) {
             return {}; // Return an empty vector if conversion isn't possible
         }
+        int k=0;
         for(size_t i=0;i<m;i++){
             for(size_t j=0;j<n;j++){
-                result[i][j]=original[i*n+j];
+                result[i][j]=original[k++];
             }
         }
         return result;
