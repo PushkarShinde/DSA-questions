@@ -1,15 +1,17 @@
 class Solution {
 public:
-    string rev(string str) {
-        std::reverse(str.begin(), str.end());
-        return str;
-    }
+    int reverse(int x) {
+        long result = 0;
+        while (x != 0) {
+            int digit = x % 10;
+            result = result * 10 + digit;
+            x /= 10;
 
-    long reverse(int x) {
-        if(x>=0){
-            return (long)(stoi(rev(to_string(x))));
-        } else{
-            return (long)((-1)*stoi(rev(to_string(x*(-1)))));
+            // Check for overflow
+            if (result > INT_MAX || result < INT_MIN) {
+                return 0; // Return 0 in case of overflow
+            }
         }
+        return result;
     }
 };
