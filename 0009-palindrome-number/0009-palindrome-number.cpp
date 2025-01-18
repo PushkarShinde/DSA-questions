@@ -1,28 +1,21 @@
 class Solution {
 public:
-    vector<int> digits(int x){
-        vector<int> digs;
+    int reverse(int x){
+        int result=0;
         while(x){
-            digs.push_back(x%10);
-            x/=10;
+            int rem=x%10;
+            if (result > INT_MAX/10 || result < INT_MIN/10) {
+                return 0; // Overflow condition
+            }
+            result=result*10+rem;
+            x/=10; 
         }
-        return digs;
+        return result;
     }
     bool isPalindrome(int x) {
-        vector<int>digs=digits(x);
-        int n=digs.size();
-        bool key;
-            for(int i=0;i<n/2;i++){
-                if(digs[i]==digs.at(n-1-i)){
-                    key=true;
-                } else{
-                    key=false;
-                    break;
-                }
-            }
-            if(x<0){
-                key=false;
-            }
-            return key;
+        if(x<0){
+            return false;
+        }
+        return reverse(x)==x;
     }
 };
