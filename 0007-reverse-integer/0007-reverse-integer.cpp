@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long reverse(int x) {
+    long reverse(int x) {
         long result = 0;
         while (x != 0) {
             int digit = x % 10;
@@ -11,6 +11,6 @@ public:
                 return 0; // Return 0 in case of overflow
             }
         }
-        return (long long)result;
+        return result;
     }
 };
