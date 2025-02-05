@@ -1,22 +1,23 @@
 class Solution {
 public:
     bool isValid(string s) {
-        // 40	(	Left parenthesis
-        // 41	)	Right parenthesis
-        // 91	[	Left square bracket
-        // 93	]	Right square bracket
-        // 123	{	Left curly brace
-        // 125	}	Right curly brace
-        int lp=0, rp=0, lsb=0, rsb=0, lcb=0, rcb=0;
-        for(char c:s){
-            if(c=='(') lp++;
-            if(c==')') rp++;
-            if(c=='[') lsb++;
-            if(c==']') rsb++;
-            if(c=='{') lcb++;
-            if(c=='}') rcb++;
+        stack<char> st;
+        unordered_map<char, char> bracket_map = {{')', '('}, {']', '['}, {'}', '{'}};
+        
+        for (char c : s) {
+            // Check if it's a closing bracket
+            if (bracket_map.count(c)) {
+                char top = st.empty() ? '#' : st.top();
+                if (top == bracket_map[c]) {
+                    st.pop();
+                } else {
+                    return false;
+                }
+            } else {
+                st.push(c); // Push opening brackets
+            }
         }
-        if(lp==rp && lsb==rsb && lcb==rcb) return true;
-        return false;
+        
+        return st.empty();
     }
 };
