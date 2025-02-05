@@ -3,7 +3,7 @@ public:
     bool isValid(string s) {
         stack<char> st;
         unordered_map<char, char> bracket_map = {{')', '('}, {']', '['}, {'}', '{'}};
-        
+        if(s.length()%2!=0) return false;
         for (char c : s) {
             // Check if it's a closing bracket
             if (bracket_map.count(c)) {
