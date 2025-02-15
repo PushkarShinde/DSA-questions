@@ -10,10 +10,12 @@ class Solution {
     }
     public int digits(int num){
         int count=0;
-        while(num>0){
-            num/=10;
-            count++;
-        }
+        // while(num>0){
+        //     num/=10;
+        //     count++;
+        // }
+        if(num<0) num= num*-1;
+        count=(int)Math.log10(num)+1;
         return count;
     }
 }
