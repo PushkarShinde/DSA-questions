@@ -1,20 +1,18 @@
 class Solution {
     public int maxFrequency(int[] nums, int k) {
+        int l=0, r=0;
         Arrays.sort(nums);
-        int start=0;
         int n=nums.length;
-        if(n==1) return n;
-        int cost=0;
+        long winsum=0;
         int maxfreq=1;
-        for(int end=1; end<n;end++){
-            cost+= (long)(nums[end]-nums[end-1])*(end-start);
-            //shrinking phase
-            while(cost>k && start<end){
-                cost-=(long)nums[end]-nums[start];
-                start++;
+        while(l<=r && r<n){
+            winsum+=nums[r];
+            while(l<=r && (long)(r-l+1)*nums[r]>winsum+k){
+                winsum-=nums[l];
+                l++;
             }
-            maxfreq=Math.max(maxfreq, end-start+1);
-            if(maxfreq>29999) maxfreq--;
+            maxfreq=Math.max(maxfreq,r-l+1);
+            r++;
         }
         return maxfreq;
     }
