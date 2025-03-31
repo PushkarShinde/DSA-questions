@@ -33,10 +33,11 @@ class Main {
 
 class Solution {
     public int longestSubarray(int[] arr, int k) {
-        HashMap<Integer,Integer> prefixSum=new HashMap<>();
         int maxLen=0;
         int n=arr.length;
         int sum=0;
+        /*Works for all positive and non positive elements*/
+        HashMap<Integer,Integer> prefixSum=new HashMap<>();
         for(int i=0;i<n;i++){
             sum+=arr[i];
             if(sum==k){maxLen=Math.max(maxLen,i+1);}
@@ -48,6 +49,21 @@ class Solution {
                 prefixSum.put(sum,i);
             }
         }
+        
+        /*
+        Works only when there are positive elements in the array!!
+        // int l=0,r=0;
+        // int sum=0;
+        // while(r<n){
+        //     sum+=arr[r];
+        //     while(sum>k){
+        //         sum-=arr[l];
+        //         l++;
+        //     }
+        //     if(sum==k){maxLen=Math.max(maxLen,r-l+1);}
+        //     r++;
+        // }
+        */
         return maxLen;
     }
 }
