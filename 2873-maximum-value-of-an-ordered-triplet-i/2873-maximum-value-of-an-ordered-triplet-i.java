@@ -1,6 +1,7 @@
 class Solution {
     public long maximumTripletValue(int[] nums) {
         // nums[i] aur nums[k] ki values badi honi chahiye, nums[j] chota hona chahiye
+
         // hums ab har j k liye uske leftmax (nums[i] max) aur rightmax (nums[k] max) preprocess karenge
         int n=nums.length;
         int[] lmax=new int[n];
@@ -15,8 +16,20 @@ class Solution {
         }
         long res=Long.MIN_VALUE;
         for(int j=0;j<n;j++){
-            res=Math.max(res,(lmax[j]-nums[j])*rmax[j]);
+            res=Math.max(res, (long)(lmax[j]-nums[j])*rmax[j]);
         }
         return res;
+        /*
+        TC- O(n)
+        SC- O(n)
+        */
+
+        // int n=nums.length;
+        // long maxVal=Long.MIN_VALUE;
+        // int maxLeft=nums[0];
+        // for(int i=0;i<n;i++){
+        //     int maxRight=0;
+        //     for(int k=)
+        // }
     }
 }
