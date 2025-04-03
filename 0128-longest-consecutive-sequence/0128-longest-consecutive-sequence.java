@@ -24,24 +24,22 @@ class Solution {
 
         //OPTIMAL TC-O(N)
         if (nums.length == 0) return 0;
-
-        TreeSet<Integer> set = new TreeSet<>();
-        for (int num : nums) set.add(num); // Store unique elements in sorted order
-
-        int maxLength = 1;
-        int currentStreak = 1;
-        Integer prev = null;
-
+        HashSet<Integer> set = new HashSet<>();
+        for (int num : nums) set.add(num); // Store unique numbers in HashSet
+        int maxLength = 0;
         for (int num : set) {
-            if (prev != null && num == prev + 1) {
-                currentStreak++; // Extend sequence
-            } else {
-                maxLength = Math.max(maxLength, currentStreak); // Update max length
-                currentStreak = 1; // Reset for new sequence
+            // Start a new sequence only if `num - 1` is not present
+            if (!set.contains(num - 1)) {
+                int currentNum = num;
+                int streak = 1;
+                // Count consecutive numbers
+                while (set.contains(currentNum + 1)) {
+                    currentNum++;
+                    streak++;
+                }
+                maxLength = Math.max(maxLength, streak);
             }
-            prev = num; // Update previous element
         }
-
-        return Math.max(maxLength, currentStreak); // Final check
+        return maxLength;
     }
 }
