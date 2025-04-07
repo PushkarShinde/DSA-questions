@@ -1,13 +1,4 @@
 class Solution {
-    private boolean solve(int[] nums, int sum, int i){
-        if(sum==0) return true;
-        if(i==nums.length) return false;
-        if(sum<nums[i]) return false;
-        if(sum==nums[i]) return true;
-        boolean take=solve(nums,sum-nums[i],i+1);
-        boolean notTake=solve(nums,sum,i+1);
-        return take || notTake; // wow, ab jisme bhi true aya ho humara answer true hi ayega!
-    }
     public boolean canPartition(int[] nums) {
         int n=nums.length;
         int sumFull=0;
