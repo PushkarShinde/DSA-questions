@@ -1,8 +1,8 @@
 public class Solution {
-    public int numberOfPowerfulInt(long start, long finish, int limit, String s) {
+    public long numberOfPowerfulInt(long start, long finish, int limit, String s) {
         long S = Long.parseLong(s);
         int lenS = s.length();
-        int count = 0;
+        long count = 0;
 
         // Check if S itself is within the range
         if (S >= start && S <= finish) {
@@ -53,8 +53,8 @@ public class Solution {
             String upperPStr = String.format("%0" + lenP + "d", upperP);
             String lowerPStr = String.format("%0" + lenP + "d", lowerP);
 
-            int cntUpper = countValidNumbers(upperPStr, lenP, limit);
-            int cntLower = (lowerP > 1) ? countValidNumbers(String.format("%0" + lenP + "d", lowerP - 1), lenP, limit) : 0;
+            long cntUpper = countValidNumbers(upperPStr, lenP, limit);
+            long cntLower = (lowerP > 1) ? countValidNumbers(String.format("%0" + lenP + "d", lowerP - 1), lenP, limit) : 0;
 
             count += cntUpper - cntLower;
         }
@@ -62,14 +62,14 @@ public class Solution {
         return count;
     }
 
-    private int countValidNumbers(String X, int lenP, int limit) {
+    private long countValidNumbers(String X, int lenP, int limit) {
         int n = X.length();
         if (n < lenP) {
             return 0;
         }
         if (n > lenP) {
             // All lenP-digit numbers with digits <= limit and first digit >=1
-            int total = limit; // first digit: 1..limit
+            long total = limit; // first digit: 1..limit
             for (int i = 1; i < lenP; i++) {
                 total *= (limit + 1); // other digits: 0..limit
             }
@@ -77,7 +77,7 @@ public class Solution {
         }
 
         // X has exactly lenP digits
-        int[][][] dp = new int[lenP + 1][2][2];
+        long[][][] dp = new long[lenP + 1][2][2];
         dp[0][1][0] = 1; // position 0, tight=1, nonZero=0
 
         for (int i = 0; i < lenP; i++) {
