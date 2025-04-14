@@ -1,6 +1,6 @@
 class Solution {
     public int countGoodTriplets(int[] arr, int a, int b, int c) {
-        // BRUTE FORCE TC-O(N)
+        // BRUTE FORCE TC-O(N^3)
         int n=arr.length;
         int count=0;
         for(int i=0;i<n-2;i++){
