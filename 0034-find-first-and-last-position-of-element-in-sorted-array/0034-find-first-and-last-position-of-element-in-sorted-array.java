@@ -46,8 +46,10 @@ class Solution {
 
         int lb=lowerBound(nums,target);
         if(lb==-1 || nums[lb]!=target) return new int[]{-1,-1};
-        int ub=upperBound(nums,target)-1;
-
-        return new int[]{lb, ub};
+        int ub=upperBound(nums,target);
+        // If upper bound is -1 (i.e., no element greater than target), we need to use the last index
+        if (ub == -1) ub = nums.length;
+        
+        return new int[]{lb, ub - 1};
     }
 }
