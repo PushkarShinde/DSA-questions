@@ -1,0 +1,20 @@
+class Solution {
+    public int singleNonDuplicate(int[] nums) {
+        int n=nums.length;
+        int l=0, r=n-1;
+        if(n==1) return nums[0];
+        while(l<r){
+            int mid=l+(r-l)/2;
+            // Ensure mid is even
+            if (mid % 2 == 1) mid--;
+
+            // Compare pair
+            if (nums[mid] == nums[mid + 1]) {
+                l = mid + 2; // move right
+            } else {
+                r = mid; // move left
+            }
+        }
+        return nums[l];
+    }
+}
