@@ -4,17 +4,13 @@ class Solution {
         int[] map=new int[37];
         int maxVal=0;
         for(int i=1;i<=n;i++){
-            int a=i%10;
-            int b=(i/10)%10;
-            int c=(i/100)%10;
-            int d=(i/1000)%10;
-            int j=a+b+c+d;
+            int j = i % 10 + (i / 10) % 10 + (i / 100) % 10 + (i / 1000) % 10;
             map[j]++;
             maxVal=Math.max(maxVal, map[j]);
         }
         int res=0;
-        for(int i:map){
-            if(i==maxVal) res++;
+        for (int i = 0; i < 37; i++) {
+            if (map[i] == maxVal) res++;
         }
         return res;
     }
