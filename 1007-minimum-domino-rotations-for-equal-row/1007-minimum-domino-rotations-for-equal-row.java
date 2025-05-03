@@ -1,7 +1,7 @@
 class Solution {
     public int minDominoRotations(int[] tops, int[] bottoms) {
         int n=tops.length;
-        for(int j=1;j<6;j++){
+        for(int j=1;j<=6;j++){
             int tcount=0;
             int bcount=0;
             boolean valid=true;
