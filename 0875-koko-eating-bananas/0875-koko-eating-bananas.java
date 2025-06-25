@@ -1,7 +1,7 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int n=piles.length;
-        int total=0;
+        long total=0;
         for(int i: piles) total+=i;
         int l=(int) ((total - 1) / h) + 1;
         // int l=Math.ceil((double)total/h);
@@ -27,7 +27,7 @@ class Solution {
     private int time(int[] arr, int h){
         int hrs=0;
         for(int i:arr){
-            hrs+=Math.ceil((double)i/h);
+            hrs += (i - 1) / h + 1; // same as ceil(i / h)
         }
         return hrs;
     }
