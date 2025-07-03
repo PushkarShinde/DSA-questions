@@ -13,7 +13,7 @@ class Solution {
         while(nn>0){
             if(nn%2==1){
                 res=res*x;
-                nn-=1;
+                // nn-=1;
             }
             x*=x;
             nn/=2;
