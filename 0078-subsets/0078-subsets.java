@@ -14,3 +14,13 @@ class Solution {
         return ans;
     }
 }
+/**
+\U0001f4a1 Why This Works:
+Each number from 0 to 2^n - 1 represents a subset:
+
+Each bit in the number tells you whether to include (1) or exclude (0) an element at that index.
+
+For example, with nums = [1, 2, 3]:
+
+i = 5 (binary 101) → includes nums[0] and nums[2] → subset: [1, 3]
+ */
