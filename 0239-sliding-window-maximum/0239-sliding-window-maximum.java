@@ -12,7 +12,7 @@ class Solution {
             while(!dq.isEmpty() && nums[i]>nums[dq.peekLast()]){
                 dq.pollLast();
             }
-            dq.offer(i);
+            dq.addLast(i);
 
             if(i>=k-1) ans[index++]=nums[dq.peek()];
         }
