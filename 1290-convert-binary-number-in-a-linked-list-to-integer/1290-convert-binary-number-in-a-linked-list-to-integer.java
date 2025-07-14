@@ -12,7 +12,7 @@ class Solution {
     public int getDecimalValue(ListNode head) {
         int dig=0;
         while(head!=null){
-            dig=dig<<1 | head.val;
+            dig=dig<<1 | head.val;// Shift left and add current bit
             head=head.next;
         }
 
