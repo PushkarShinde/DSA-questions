@@ -1,6 +1,7 @@
 class Solution {
     public String makeFancyString(String s) {
         int n=s.length();
+        if(n<3) return s;
         char pre1=s.charAt(0);
         char pre2=s.charAt(1);
         StringBuilder res=new StringBuilder();
