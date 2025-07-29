@@ -7,7 +7,9 @@ class Solution {
             while(!st.isEmpty() && st.peek()<=nums[i%n]){
                 st.pop();
             }
-            res[i%n]=st.isEmpty()?-1:st.peek();
+            if(i<n){
+                res[i]=st.isEmpty() ? -1 : st.peek();
+            }
             st.add(nums[i%n]);
         }
         return res;
