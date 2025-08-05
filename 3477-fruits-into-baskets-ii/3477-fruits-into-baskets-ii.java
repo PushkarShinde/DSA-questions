@@ -3,7 +3,7 @@ class Solution {
         int n=fruits.length;
         int[][] place=new int[n][2];
         boolean[] taken=new boolean[n];
-        Arrays.fill(taken, false);
+        // Arrays.fill(taken, false);
         for(int i=0;i<n;i++){
             place[i][0]=baskets[i];
             for(int j=0;j<n;j++){
