@@ -1,15 +1,15 @@
 class Solution {
 
-    private int solve(int i, int j, int[][] matrix, List<List<Integer>> memo){
+    private int solve(int i, int j, int[][] matrix, int[][] memo){
         int m=matrix.length;
         int n=matrix[0].length;
         int count=0;
-        if(memo[i][j]!=-1) return memo[i][j];
         if(i>=m || j>=n) return 0;
+        if(memo[i][j]!=-1) return memo[i][j];
         if(matrix[i][j]==0) return 0;
         int right=solve(i, j+1, matrix,memo);
         int diag=solve(i+1, j+1, matrix,memo);
-        int left=solve(i+1, j, matrix,memo);
+        int down=solve(i+1, j, matrix,memo);
         memo[i][j] = 1 + Math.min(right, Math.min(diag, down));
         return memo[i][j];
     }
