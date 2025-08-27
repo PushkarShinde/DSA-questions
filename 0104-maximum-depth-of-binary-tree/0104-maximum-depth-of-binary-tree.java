@@ -24,3 +24,4 @@ class Solution {
         return depth(root);
     }
 }
+// wow, khud se kiya \U0001f62d
