@@ -1,22 +1,24 @@
 class Solution {
     public String sortVowels(String s) {
         PriorityQueue<Character> pq=new PriorityQueue<>();
-        char[] vovel=new char[]{'A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u'};
+        // char[] vovel=new char[]{'A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u'};
+        //instead of using an array for lookup (O(n)), we can use a set for O(1) lookup
+        Set<Character> vovelSet=Set.of('A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u');
         StringBuilder res=new StringBuilder();
         int ind=0;
         for(char c: s.toCharArray()){
-            if(contains(c,vovel)) pq.offer(c);
+            if(vovelSet.contains(c)) pq.offer(c);
         }
         for(char c: s.toCharArray()){
-            if(contains(c,vovel)) res.append(pq.poll());
+            if(vovelSet.contains(c)) res.append(pq.poll());
             else res.append(c);
         }
         return res.toString();
     }
-    private boolean contains(char c, char[] ch){
-        for(char s: ch){
-            if(s==c) return true;
-        }
-        return false;
-    }
+    // private boolean contains(char c, char[] ch){
+    //     for(char s: ch){
+    //         if(s==c) return true;
+    //     }
+    //     return false;
+    // }
 }
