@@ -8,7 +8,10 @@ class Solution {
         vovel.add('u');
         int v=0;
         for(char c: s.toCharArray()){
-            if(vovel.contains(c)) v++;
+            if(vovel.contains(c)) {
+                v++;
+                break;
+            }
         }
         if(v==0) return false;
         // if(v%) return true;
