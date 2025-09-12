@@ -11,7 +11,7 @@ class Solution {
             if(vovel.contains(c)) v++;
         }
         if(v==0) return false;
-        if(v==1) return true;
-        return v%2==0;
+        // if(v%) return true;
+        return true;
     }
 }
