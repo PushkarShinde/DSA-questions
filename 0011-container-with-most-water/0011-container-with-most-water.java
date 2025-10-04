@@ -20,9 +20,13 @@ class Solution {
             int w=Math.min(hl,hr)*(r-l);
             max=Math.max(max,w);
             if(hl<hr){
-                l++;
+                while(l<r && hl>=height[l]){
+                    l++;
+                }
             }else{
-                r--;
+                while(l<r && height[r]<=hr){
+                    r--;
+                }
             }
         }
         return max;
