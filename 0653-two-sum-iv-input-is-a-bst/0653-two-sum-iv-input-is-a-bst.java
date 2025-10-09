@@ -16,16 +16,20 @@
 class Solution {
     Set<Integer> set=new HashSet<>();
     public boolean findTarget(TreeNode root, int k) {
-        inorder(root,set);
-        for(int i:set){
-            if((k-i)!=i && set.contains(k-i)) return true;
-        }
-        return false;
-    }
-    private void inorder(TreeNode root, Set<Integer> set){
-        if(root==null) return;
-        inorder(root.left,set);
+        // inorder(root,set);
+        // for(int i:set){
+        //     if((k-i)!=i && set.contains(k-i)) return true;
+        // }
+        // return false;
+        if(root==null) return false;
+        if(set.contains(k-root.val)) return true;
         set.add(root.val);
-        inorder(root.right,set);
+        return findTarget(root.left, k) || findTarget(root.right, k);
     }
+    // private void inorder(TreeNode root, Set<Integer> set){
+    //     if(root==null) return;
+    //     inorder(root.left,set);
+    //     set.add(root.val);
+    //     inorder(root.right,set);
+    // }
 }
