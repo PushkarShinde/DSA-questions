@@ -14,11 +14,9 @@
  * }
  */
 class BSTIterator {
-    TreeNode root;
     List<Integer> list=new ArrayList<>();
     int it=-1;
     public BSTIterator(TreeNode root) {
-        this.root=root;
         inorder(root);
     }
     
