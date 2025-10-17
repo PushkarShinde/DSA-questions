@@ -28,6 +28,6 @@ class Solution {
             }
             res++;
         }
-        return res;
+        return 0;
     }
 }
