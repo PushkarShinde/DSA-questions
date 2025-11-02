@@ -14,21 +14,16 @@ class Solution {
         for(int i: nums){
             set.add(i);
         }
-        ListNode cur=head;
-        ListNode pre=cur;
+        while(head!=null && set.contains(head.val)) head=head.next;
+        if(head==null) return null;
+
+        ListNode pre=head;
+        ListNode cur=head.next;
         while(cur!=null){
             int x=cur.val;
             if(set.contains(x)){
-                if(cur==head){
-                    ListNode temp=head;
-                    head=head.next;
-                    temp.next=null;
-                    cur=head;
-                    pre=cur;
-                }else{
-                    cur=cur.next;
-                    pre.next=cur;
-                }
+                pre.next=cur.next;
+                cur=cur.next;
             }else{
                 pre=cur;
                 cur=cur.next;
