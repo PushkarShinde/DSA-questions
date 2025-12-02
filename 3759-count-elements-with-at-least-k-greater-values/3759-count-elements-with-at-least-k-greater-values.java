@@ -3,12 +3,13 @@ class Solution {
         Arrays.sort(nums);
         int n=nums.length;
         int count=0;
-        for(int i=0;i<n-k;i++){
-            if(n-upperBound(0,n-1,nums[i],nums)>=k) count++;
+        for(int i=0;i<n;i++){
+            if(n-upperBound(nums[i],nums)>=k) count++;
         }
         return count;
     }
-    private int upperBound(int l, int r, int num, int[] nums){
+    private int upperBound(int num, int[] nums){
+        int l=0, r=nums.length;
         while(l<r){
             int mid=l+(r-l)/2;
             if(nums[mid]<=num){
