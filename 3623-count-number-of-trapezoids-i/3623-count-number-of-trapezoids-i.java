@@ -11,7 +11,7 @@ class Solution {
         long sum=0;
         for(int key:map.keySet()){
             int val=map.get(key);
-            long edges=(long)(val*(val-1))/2;
+            long edges=((long)val*(val-1))/2;
             res=(res+edges*sum)%mod;
             sum=(sum+edges)%mod;
         }
