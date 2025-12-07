@@ -3,13 +3,18 @@ class Solution {
         if(n<2) return 0;
         int sum=0;
         boolean[] primes=sieve(n);
-        for(int i=0;i<=n;i++){
+        List<Integer> res=new ArrayList<>();
+        for(int i=2;i<=n;i++){
             if(primes[i]){
                 if(sum+i>n) break; 
-                sum+=i;
+                res.add(sum+=i);
             }
         }
-        return sum;
+        int m=res.size();
+        for(int i=m-1;i>=0;i--){
+            if(primes[res.get(i)]) return res.get(i);
+        }
+        return 0;
     }
     private boolean[] sieve(int n){
         boolean[] isPrime=new boolean[n+1];
