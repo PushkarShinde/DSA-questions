@@ -1,31 +1,52 @@
 class Solution {
+    class UnionFind{
+        int[] parent;
+        int[] size;
+        int components;
+        UnionFind(int n){
+            parent=new int[n];
+            size=new int[n];
+            components=n;
+            for(int i=0;i<n;i++){
+                parent[i]=i;
+                size[i]=1;
+            }
+        }
+        int find(int x){
+            if(parent[x]!=x){
+                return find(parent[x]);
+            }
+            return parent[x];
+        }
+        boolean union(int x, int y){
+            int rootX=find(x);
+            int rootY=find(y);
+            if(rootX==rootY){
+                return false;
+            }
+            if(size[rootX]<size[rootY]){
+                parent[rootX]=rootY;
+                size[rootY]+=size[rootX];
+            }else{
+                parent[rootY]=rootX;
+                size[rootX]+=size[rootY];
+            }
+            components--;
+            return true;
+        }
+    }
     public int removeStones(int[][] stones){
         int n=stones.length;
-        if(n==1) return 0;
-        Set<Integer> setX = new HashSet<>();
-        Set<Integer> setY = new HashSet<>();
-        int count1=0;
-        int count2=0;
-        for(int[] s:stones){
-            int x=s[0], y=s[1];
-            if(setX.contains(x) || setY.contains(y)) {
-                count1++;
-                // continue;
+        UnionFind uf=new UnionFind(n);
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                int xi=stones[i][0], yi=stones[i][1];
+                int xj=stones[j][0], yj=stones[j][1];
+                if(xi==xj || yi==yj){
+                    uf.union(i,j);
+                }
             }
-            setX.add(x);
-            setY.add(y);
         }
-        setX.clear();
-        setY.clear();
-        for(int i=n-1;i>=0;i--){
-            int x=stones[i][0], y=stones[i][1];
-            if(setX.contains(x) || setY.contains(y)) {
-                count2++;
-                // continue;
-            }
-            setX.add(x);
-            setY.add(y);
-        }
-        return Math.max(count1, count2);
+        return n-uf.components;
     }
 }
