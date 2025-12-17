@@ -5,12 +5,12 @@ class Solution {
         }
         int p1=0;
         int p2=1;
-        int res=0;
+        // int res=0;
         for(int i=1;i<=n;i++){
-            res=p1+p2;
+            int temp=p1+p2;
             p1=p2;
-            p2=res;
+            p2=temp;
         }
-        return res;
+        return p2;
     }
 }
