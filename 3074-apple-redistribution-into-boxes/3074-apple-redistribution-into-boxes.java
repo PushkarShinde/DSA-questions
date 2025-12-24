@@ -7,12 +7,11 @@ class Solution {
             totalApple+=apple[i];
         }
         Arrays.sort(capacity);
-        int totalCap=0;
         int count=0;
         for(int i=m-1;i>=0;i--){
-            totalCap+=capacity[i];
+            totalApple-=capacity[i];
             count++;
-            if(totalCap>=totalApple) break;
+            if(totalApple<=0) break;
         }
         return count;
     }
