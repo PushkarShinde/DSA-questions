@@ -7,7 +7,8 @@ class Solution {
         }
         long ans=0L;
         for(int i=0;i<k;i++){
-            ans+=Math.max(pq.poll()-i,0);
+            if(pq.peek()-i<=0) break;
+            ans+=pq.poll()-i;
         }
         return ans;
     }
