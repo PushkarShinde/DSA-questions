@@ -1,32 +1,24 @@
 class Solution {
-/*
-    //TOP DOWN APPROACH
+    private int[][] dp;
     public int uniquePaths(int m, int n) {
-        int[][] dp=new int[m+1][n+1];
-        for(int[] rows: dp){
-            Arrays.fill(rows,-1);
+        dp=new int[m][n];
+        for(int i=0;i<m;i++){
+            Arrays.fill(dp[i],-1);
         }
-        return solve(m,n,dp);
+        return solve(m,n, 0,0);
     }
-    private int solve(int m, int n, int[][] dp){
-        if(n==1 || m==1) return 1;
-        if(dp[m][n]!=-1) return dp[m][n];
-        return dp[m][n]=uniquePaths(m,n-1) + uniquePaths(m-1, n);
-    }
-*/
-    // BOTTOM UP APPROACH
-    public int uniquePaths(int m, int n){
-        int[][] dp=new int[m][n];
-        // fill the first row and column with 1
-        for(int i=0;i<m;i++) dp[i][0]=1;
-        for(int i=0;i<n;i++) dp[0][i]=1;
-
-        for(int i=1;i<m;i++){
-            for(int j=1;j<n;j++){
-                dp[i][j]=dp[i-1][j]+dp[i][j-1];
-            }
+    int[][] dir={{0,1},{1,0}};
+    private int solve(int m, int n, int i, int j){
+        if(i==m-1 && j==n-1){
+            return 1;
         }
-
-        return dp[m-1][n-1];
+        if(dp[i][j]!=-1) return dp[i][j];
+        int ways=0;
+        for(int[] d:dir){
+            int nx=i+d[0], ny=j+d[1];
+            if(nx<0 || ny<0 || nx>=m || ny>=n) continue;
+            ways+=solve(m,n,nx,ny);
+        }
+        return dp[i][j]=ways;
     }
 }
