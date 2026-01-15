@@ -1,21 +1,17 @@
 class Solution {
     public double separateSquares(int[][] squares) {
-        int[][] square=squares.clone();
-        Arrays.sort(square,(a,b)->{
-            if(a[1]!=b[1]) return a[1]-b[1];
-            return a[2]-b[2];
-        });
-        int n=square.length;
-        double l=square[0][1];
-        double r=square[n-1][1]+square[n-1][2];
+        double maxY=0.0;
         double totalArea=0.0;
         for(int[] s:squares){
-            totalArea+=(long)s[2]*s[2];//side^2
+            maxY=Math.max(maxY,(double)s[1]+s[2]);
+            totalArea+=(double)s[2]*s[2];//side^2
         }
+        double l=0, r=maxY;
+        double precision=1e-5; 
         double target=totalArea/2.0;
-        for(int i=0;i<55;i++){//for extra precision
-            double mid=l+(r-l)/2.0;
-            if(areaBelow(mid,square)>=target){
+        while(Math.abs(r-l)>precision){//for extra precision
+            double mid=(double)l+(r-l)/2.0;
+            if(areaBelow(mid,squares)>=target){
                 r=mid;
             }else{
                 l=mid;
@@ -27,11 +23,9 @@ class Solution {
         double area=0.0;
         for(int[] s:sq){
             int y=s[1], side=s[2];
-            if(h<y) break;
-            else if(h>=y+side){ 
-                area+=(long)side*side;
-            }else{
-                area+=side*(h-y);
+            if(h<y) continue;
+            else if(h>y){ 
+                area+=(double)side*Math.min((double)side,h-y);
             }
         }
         return area;
