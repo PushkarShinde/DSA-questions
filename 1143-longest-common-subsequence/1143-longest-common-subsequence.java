@@ -16,7 +16,7 @@ class Solution {
         if(dp[i][j]!=-1) return dp[i][j];
         int count=0;
         if(t1.charAt(i)==t2.charAt(j)) {
-            return solve(t1, t2, i+1, j+1)+1;
+            return dp[i][j]=solve(t1, t2, i+1, j+1)+1;
         }
         count=Math.max(count, solve(t1, t2, i, j+1));
         count=Math.max(count, solve(t1, t2, i+1, j));
