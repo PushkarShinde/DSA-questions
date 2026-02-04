@@ -20,16 +20,14 @@ class Solution {
             return true;
         }
         if(dp[i][j]!=-1) return dp[i][j]==1;
+        boolean res=false;
         if(s.charAt(i-1)==p.charAt(j-1) || p.charAt(j-1)=='?'){
-            dp[i][j]=(solve(s,p,i-1,j-1))?1:0;
-            return dp[i][j]==1;
-        }
-        if(p.charAt(j-1)=='*'){
+            res=solve(s,p,i-1,j-1);
+        }else if(p.charAt(j-1)=='*'){
             //(dono star aur uske parellel p's char is removed || only removed the star ka parellel wala char)
-            dp[i][j]=(solve(s,p,i-1,j-1) || solve(s,p,i-1,j))?1:0;
-            return dp[i][j]==1;
+            res=solve(s,p,i,j-1) || solve(s,p,i-1,j);
         }
-        dp[i][j]=0;
-        return false;
+        dp[i][j]=res?1:0;
+        return res;
     }
 }
