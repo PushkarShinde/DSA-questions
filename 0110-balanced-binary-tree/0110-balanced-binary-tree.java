@@ -16,15 +16,14 @@
 class Solution {
     public boolean isBalanced(TreeNode root) {
         if(root==null) return true;
-        return helper(root)!=-1;
+        int left=solve(root.left);
+        int right=solve(root.right);
+        if(Math.abs(right-left)>1) return false;
+
+        return isBalanced(root.left) && isBalanced(root.right);
     }
-    private int helper(TreeNode root){
+    private int solve(TreeNode root){
         if(root==null) return 0;
-        int left=helper(root.left);
-        if(left==-1) return -1;
-        int right=helper(root.right);
-        if(right==-1) return -1;
-        if(Math.abs(left-right)>1) return -1; //difference 1 se zyada nahi hona chahiye
-        return Math.max(right, left)+1; //for each visit increment height of the subtree by 1 
+        return 1+Math.max(solve(root.left),solve(root.right));
     }
 }
