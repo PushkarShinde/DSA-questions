@@ -2,7 +2,7 @@ class Solution {
     private int mod=(int)1e9+7;
     public int maxSumMinProduct(int[] nums){
         int n=nums.length;
-        int[] pre=new int[n+1];
+        long[] pre = new long[n+1];
         for(int i=0;i<n;i++){
             pre[i+1]=pre[i]+nums[i];
         }
@@ -27,8 +27,9 @@ class Solution {
         long ans=0;
         for(int i=0;i<n;i++){
             long sum=pre[right[i]]-pre[left[i]+1];
-            ans=Math.max(ans,nums[i]*sum);
+            long prod=(long)nums[i]*sum;
+            ans=Math.max(ans,prod);
         }
-        return (int)ans%mod;
+        return (int)(ans%mod);
     }
 }
