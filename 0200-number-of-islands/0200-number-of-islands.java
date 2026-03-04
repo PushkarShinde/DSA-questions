@@ -1,28 +1,30 @@
 class Solution {
-    // int[] dx={0, 0, -1, 1};
-    // int[] dy={-1, 1, 0, 0};
+    boolean[][] vis;
+    int m;
+    int n;
     public int numIslands(char[][] grid) {
-        int m=grid.length;
-        int n=grid[0].length;
-        if(grid==null || n==0 || m==0) return 0;
-        int island=0;
+        int islands=0;
+        m=grid.length;
+        n=grid[0].length;
+        vis=new boolean[m][n];
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j]=='1'){
-                    dfs(grid, i, j);
-                    island++;
-                } 
+                if(grid[i][j]=='1' && vis[i][j]==false){
+                    dfs(grid, i,j);
+                    islands++;
+                }
             }
         }
-        return island;
+        return islands;
     }
+    int[][] dir={{-1,0},{1,0},{0,-1},{0,1}};
     private void dfs(char[][] grid, int i, int j){
-        if(i<0 || j<0 || i>=grid.length || j>=grid[0].length || grid[i][j]=='0') return;
-        grid[i][j]='0';//visited
-        dfs(grid,i+1,j);
-        dfs(grid,i-1,j);
-        dfs(grid,i,j+1);
-        dfs(grid,i,j-1);
-        // return 1;
+        vis[i][j]=true;
+        for(int[] d:dir){
+            int nx=i+d[0];
+            int ny=j+d[1];
+            if(nx<0 || ny<0 || nx>=m || ny>=n || grid[nx][ny]=='0' || vis[nx][ny]) continue;
+            dfs(grid, nx, ny);
+        }
     }
 }
