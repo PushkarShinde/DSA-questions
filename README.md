@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/PushkarShinde/DSA-questions/tree/main/0022-generate-parentheses/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/PushkarShinde/DSA-questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0198-house-robber](https://github.com/PushkarShinde/DSA-questions/tree/main/0198-house-robber/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -66,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/PushkarShinde/DSA-questions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
