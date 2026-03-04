@@ -1,19 +1,26 @@
 class Solution {
+    List<String> res;
+    int n;
     public List<String> generateParenthesis(int n) {
-        List<String> ans=new ArrayList<>();
-        solve(n,n, "", ans); // start with prev = '0' to allow leading '1'
-        return ans;
+        this.n=n;
+        res=new ArrayList<>();
+        solve(n,n, new StringBuilder());
+        return res;
     }
-    private static void solve(int open, int close, String num, List<String> ans){
-        if(open==0 && close==0){
-            ans.add(num);
+    private void solve(int open, int close, StringBuilder per){
+        if(open==0 && close==0 && per.length()==2*n){
+            res.add(per.toString());
             return;
         }
         if(open>0){
-            solve(open-1, close, num+'(', ans);
+            per.append('(');
+            solve(open-1, close, per);
+            per.deleteCharAt(per.length()-1);
         }
-        if(close>open){
-            solve(open, close-1, num+')', ans);
+        if(close>0 && open<close){
+            per.append(')');
+            solve(open, close-1, per);
+            per.deleteCharAt(per.length()-1);
         }
     }
 }
