@@ -1,30 +1,39 @@
 class Solution {
+    private List<Integer>[] adj;
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> adj=new ArrayList<>();
+        adj=new ArrayList[numCourses];
         for(int i=0;i<numCourses;i++){
-            adj.add(new ArrayList<>());
+            adj[i]=new ArrayList<>();
         }
-        for(int[] p:  prerequisites){
-            int x=p[0];
-            int y=p[1];
-            // adj.computeIfAbsent(x,k->new ArrayList<>()).add(y);
-            adj.get(x).add(y);
+        for(int i=0;i<prerequisites.length;i++){
+            int u=prerequisites[i][0];
+            int v=prerequisites[i][1];
+            adj[u].add(v);
         }
-        boolean[] vis=new boolean[numCourses];
-        boolean[] stack=new boolean[numCourses];
+
+        Queue<Integer> q=new LinkedList<>();
+        int[] indegree=new int[numCourses];
+        for(int u=0;u<numCourses;u++){
+            for(int v:adj[u]){
+                indegree[v]++;
+            }
+        }
         for(int i=0;i<numCourses;i++){
-            if(dfs(i,stack,vis, adj)) return false;
+            if(indegree[i]==0){
+                q.offer(i);
+            }
         }
-        return true;
-    }
-    private boolean dfs(int i, boolean[] stack, boolean[] vis,List<List<Integer>> adj){
-        stack[i]=true;
-        for(int ch: adj.get(i)){
-            if (stack[ch]) return true;//cycle
-            if(!vis[ch] && dfs(ch,stack,vis,adj)) return true;
+        int nums=0;
+        while(!q.isEmpty()){
+            int u=q.poll();
+            nums++;
+            for(int v:adj[u]){
+                indegree[v]--;
+                if(indegree[v]==0){
+                    q.offer(v);
+                }
+            }
         }
-        stack[i]=false;//remove from recursive stack
-        vis[i]=true;
-        return false;
+        return nums==numCourses;
     }
 }
