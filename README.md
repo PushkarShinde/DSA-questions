@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PushkarShinde/DSA-questions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PushkarShinde/DSA-questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/PushkarShinde/DSA-questions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PushkarShinde/DSA-questions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2906-construct-product-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PushkarShinde/DSA-questions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/PushkarShinde/DSA-questions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/PushkarShinde/DSA-questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PushkarShinde/DSA-questions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PushkarShinde/DSA-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
@@ -255,4 +258,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PushkarShinde/DSA-questions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 <!---LeetCode Topics End-->
