@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/PushkarShinde/DSA-questions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/PushkarShinde/DSA-questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/PushkarShinde/DSA-questions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/PushkarShinde/DSA-questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/PushkarShinde/DSA-questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/PushkarShinde/DSA-questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PushkarShinde/DSA-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Backtracking
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/PushkarShinde/DSA-questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PushkarShinde/DSA-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Topological Sort
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/PushkarShinde/DSA-questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PushkarShinde/DSA-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
