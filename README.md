@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/PushkarShinde/DSA-questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PushkarShinde/DSA-questions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PushkarShinde/DSA-questions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Linked List
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/PushkarShinde/DSA-questions/tree/main/0056-merge-intervals/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/PushkarShinde/DSA-questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PushkarShinde/DSA-questions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
