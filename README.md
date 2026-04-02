@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1944-number-of-visible-people-in-a-queue](https://github.com/PushkarShinde/DSA-questions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/PushkarShinde/DSA-questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2742-painting-the-walls](https://github.com/PushkarShinde/DSA-questions/tree/main/2742-painting-the-walls/) | Hard |
 | [2751-robot-collisions](https://github.com/PushkarShinde/DSA-questions/tree/main/2751-robot-collisions/) | Hard |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PushkarShinde/DSA-questions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2906-construct-product-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PushkarShinde/DSA-questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/PushkarShinde/DSA-questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2742-painting-the-walls](https://github.com/PushkarShinde/DSA-questions/tree/main/2742-painting-the-walls/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PushkarShinde/DSA-questions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
