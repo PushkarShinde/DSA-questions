@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PushkarShinde/DSA-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/PushkarShinde/DSA-questions/tree/main/0198-house-robber/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PushkarShinde/DSA-questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/PushkarShinde/DSA-questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PushkarShinde/DSA-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -268,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/PushkarShinde/DSA-questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
