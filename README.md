@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/PushkarShinde/DSA-questions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/PushkarShinde/DSA-questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/PushkarShinde/DSA-questions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PushkarShinde/DSA-questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/PushkarShinde/DSA-questions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
