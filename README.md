@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PushkarShinde/DSA-questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/PushkarShinde/DSA-questions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/PushkarShinde/DSA-questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/PushkarShinde/DSA-questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2742-painting-the-walls](https://github.com/PushkarShinde/DSA-questions/tree/main/2742-painting-the-walls/) | Hard |
 | [2751-robot-collisions](https://github.com/PushkarShinde/DSA-questions/tree/main/2751-robot-collisions/) | Hard |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/PushkarShinde/DSA-questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/PushkarShinde/DSA-questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/PushkarShinde/DSA-questions/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PushkarShinde/DSA-questions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PushkarShinde/DSA-questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/PushkarShinde/DSA-questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/PushkarShinde/DSA-questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2742-painting-the-walls](https://github.com/PushkarShinde/DSA-questions/tree/main/2742-painting-the-walls/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
