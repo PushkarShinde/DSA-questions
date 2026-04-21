@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/PushkarShinde/DSA-questions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/PushkarShinde/DSA-questions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0994-rotting-oranges](https://github.com/PushkarShinde/DSA-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/PushkarShinde/DSA-questions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/PushkarShinde/DSA-questions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/PushkarShinde/DSA-questions/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [1622-fancy-sequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
