@@ -12,6 +12,7 @@ class Solution {
                 int dif=0;
                 for(int i=0;i<n;i++){
                     if(d.charAt(i)!=q.charAt(i)) dif++;
+                    if(dif>2) break;
                 }
 
                 if(dif<=2) {    
