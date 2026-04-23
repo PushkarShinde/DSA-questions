@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2615-sum-of-distances](https://github.com/PushkarShinde/DSA-questions/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PushkarShinde/DSA-questions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/PushkarShinde/DSA-questions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2463-minimum-total-distance-traveled](https://github.com/PushkarShinde/DSA-questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PushkarShinde/DSA-questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/PushkarShinde/DSA-questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2615-sum-of-distances](https://github.com/PushkarShinde/DSA-questions/tree/main/2615-sum-of-distances/) | Medium |
 | [2742-painting-the-walls](https://github.com/PushkarShinde/DSA-questions/tree/main/2742-painting-the-walls/) | Hard |
 | [2751-robot-collisions](https://github.com/PushkarShinde/DSA-questions/tree/main/2751-robot-collisions/) | Hard |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PushkarShinde/DSA-questions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/PushkarShinde/DSA-questions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2615-sum-of-distances](https://github.com/PushkarShinde/DSA-questions/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PushkarShinde/DSA-questions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
