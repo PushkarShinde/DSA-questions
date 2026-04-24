@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0874-walking-robot-simulation](https://github.com/PushkarShinde/DSA-questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2615-sum-of-distances](https://github.com/PushkarShinde/DSA-questions/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PushkarShinde/DSA-questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/PushkarShinde/DSA-questions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PushkarShinde/DSA-questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PushkarShinde/DSA-questions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/PushkarShinde/DSA-questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/PushkarShinde/DSA-questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/PushkarShinde/DSA-questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/PushkarShinde/DSA-questions/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PushkarShinde/DSA-questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/PushkarShinde/DSA-questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/PushkarShinde/DSA-questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2742-painting-the-walls](https://github.com/PushkarShinde/DSA-questions/tree/main/2742-painting-the-walls/) | Hard |
@@ -274,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PushkarShinde/DSA-questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/PushkarShinde/DSA-questions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PushkarShinde/DSA-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
