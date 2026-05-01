@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/PushkarShinde/DSA-questions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0212-word-search-ii/) | Hard |
+| [0396-rotate-function](https://github.com/PushkarShinde/DSA-questions/tree/main/0396-rotate-function/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/PushkarShinde/DSA-questions/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PushkarShinde/DSA-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/PushkarShinde/DSA-questions/tree/main/0198-house-robber/) | Medium |
+| [0396-rotate-function](https://github.com/PushkarShinde/DSA-questions/tree/main/0396-rotate-function/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/PushkarShinde/DSA-questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/PushkarShinde/DSA-questions/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0396-rotate-function](https://github.com/PushkarShinde/DSA-questions/tree/main/0396-rotate-function/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/PushkarShinde/DSA-questions/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [1622-fancy-sequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
