@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/PushkarShinde/DSA-questions/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1622-fancy-sequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Doubly-Linked List
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0788-rotated-digits](https://github.com/PushkarShinde/DSA-questions/tree/main/0788-rotated-digits/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PushkarShinde/DSA-questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -218,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0365-water-and-jug-problem](https://github.com/PushkarShinde/DSA-questions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0994-rotting-oranges](https://github.com/PushkarShinde/DSA-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -292,12 +296,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/PushkarShinde/DSA-questions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/PushkarShinde/DSA-questions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/PushkarShinde/DSA-questions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PushkarShinde/DSA-questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -355,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
