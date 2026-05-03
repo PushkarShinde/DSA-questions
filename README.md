@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0212-word-search-ii/) | Hard |
 | [0564-find-the-closest-palindrome](https://github.com/PushkarShinde/DSA-questions/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/PushkarShinde/DSA-questions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/PushkarShinde/DSA-questions/tree/main/0796-rotate-string/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PushkarShinde/DSA-questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -398,4 +399,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/PushkarShinde/DSA-questions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/PushkarShinde/DSA-questions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
