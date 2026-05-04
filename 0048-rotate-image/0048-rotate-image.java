@@ -1,39 +1,26 @@
 class Solution {
-    private void swap(int[][] arr, int i, int j){
-        int temp = arr[i][j];
-        arr[i][j] = arr[j][i];
-        arr[j][i] = temp;
+    int n;
+    private void swap(int[][] matrix, int i, int j){
+        int temp=matrix[i][j];
+        matrix[i][j]=matrix[j][i];
+        matrix[j][i]=temp;
     }
-    private void reverse(int[] arr, int l, int r){
-        while(l<r){
-            int temp=arr[l];
-            arr[l]=arr[r];
-            arr[r]=temp;
-            l++; r--; 
+    private void rev(int[][] matrix, int i){
+        for(int j=0;j<n/2;j++){
+            int temp=matrix[i][j];
+            matrix[i][j]=matrix[i][n-1-j];
+            matrix[i][n-1-j]=temp;
         }
     }
     public void rotate(int[][] matrix) {
-        int n=matrix.length;
-/*      
-        BRUTE FORCE
-        TC - O(N^2) SC- O(N^2) 
-        int[][] arr=new int[m][n];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                arr[j][(n-1)-i]=matrix[i][j]; // wow
-            }
-        }
-*/
-        // OPTIMAL
-        // 1. We will transpose the matrix
-        // 2. We will now reverse each row of the transposed matrix
+        this.n=matrix.length;
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
-                swap(matrix,i,j); // wow
+                swap(matrix, i,j);
             }
         }
         for(int i=0;i<n;i++){
-            reverse(matrix[i],0,n-1); // wow
+            rev(matrix, i);
         }
     }
 }
