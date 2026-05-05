@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/PushkarShinde/DSA-questions/tree/main/0061-rotate-list/) | Medium |
 | [0146-lru-cache](https://github.com/PushkarShinde/DSA-questions/tree/main/0146-lru-cache/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/PushkarShinde/DSA-questions/tree/main/0061-rotate-list/) | Medium |
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PushkarShinde/DSA-questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/PushkarShinde/DSA-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
