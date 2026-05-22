@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/PushkarShinde/DSA-questions/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/PushkarShinde/DSA-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0079-word-search](https://github.com/PushkarShinde/DSA-questions/tree/main/0079-word-search/) | Medium |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
