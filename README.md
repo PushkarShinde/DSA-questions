@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/PushkarShinde/DSA-questions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1306-jump-game-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/PushkarShinde/DSA-questions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/PushkarShinde/DSA-questions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/PushkarShinde/DSA-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
+| [1340-jump-game-v](https://github.com/PushkarShinde/DSA-questions/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PushkarShinde/DSA-questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/PushkarShinde/DSA-questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0788-rotated-digits](https://github.com/PushkarShinde/DSA-questions/tree/main/0788-rotated-digits/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1340-jump-game-v](https://github.com/PushkarShinde/DSA-questions/tree/main/1340-jump-game-v/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PushkarShinde/DSA-questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
