@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PushkarShinde/DSA-questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/PushkarShinde/DSA-questions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/PushkarShinde/DSA-questions/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PushkarShinde/DSA-questions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PushkarShinde/DSA-questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/PushkarShinde/DSA-questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1871-jump-game-vii](https://github.com/PushkarShinde/DSA-questions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PushkarShinde/DSA-questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/PushkarShinde/DSA-questions/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/PushkarShinde/DSA-questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/PushkarShinde/DSA-questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2742-painting-the-walls](https://github.com/PushkarShinde/DSA-questions/tree/main/2742-painting-the-walls/) | Hard |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1622-fancy-sequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/PushkarShinde/DSA-questions/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PushkarShinde/DSA-questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
