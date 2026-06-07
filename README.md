@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PushkarShinde/DSA-questions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PushkarShinde/DSA-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2540-minimum-common-value](https://github.com/PushkarShinde/DSA-questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/PushkarShinde/DSA-questions/tree/main/2615-sum-of-distances/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PushkarShinde/DSA-questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/PushkarShinde/DSA-questions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PushkarShinde/DSA-questions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PushkarShinde/DSA-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PushkarShinde/DSA-questions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/PushkarShinde/DSA-questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PushkarShinde/DSA-questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PushkarShinde/DSA-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -462,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/PushkarShinde/DSA-questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PushkarShinde/DSA-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
