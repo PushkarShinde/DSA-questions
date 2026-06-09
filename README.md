@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PushkarShinde/DSA-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/PushkarShinde/DSA-questions/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/PushkarShinde/DSA-questions/tree/main/0056-merge-intervals/) | Medium |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PushkarShinde/DSA-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PushkarShinde/DSA-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
