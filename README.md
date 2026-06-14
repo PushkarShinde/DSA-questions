@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3093-longest-common-suffix-queries](https://github.com/PushkarShinde/DSA-questions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PushkarShinde/DSA-questions/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/PushkarShinde/DSA-questions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/PushkarShinde/DSA-questions/tree/main/0796-rotate-string/) | Easy |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PushkarShinde/DSA-questions/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
