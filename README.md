@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PushkarShinde/DSA-questions/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/PushkarShinde/DSA-questions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2751-robot-collisions](https://github.com/PushkarShinde/DSA-questions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PushkarShinde/DSA-questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/PushkarShinde/DSA-questions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
