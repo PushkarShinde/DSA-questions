@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0564-find-the-closest-palindrome](https://github.com/PushkarShinde/DSA-questions/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/PushkarShinde/DSA-questions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/PushkarShinde/DSA-questions/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/PushkarShinde/DSA-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PushkarShinde/DSA-questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/PushkarShinde/DSA-questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/PushkarShinde/DSA-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/PushkarShinde/DSA-questions/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PushkarShinde/DSA-questions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/PushkarShinde/DSA-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/PushkarShinde/DSA-questions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PushkarShinde/DSA-questions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 ## Divide and Conquer
