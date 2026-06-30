@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/PushkarShinde/DSA-questions/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PushkarShinde/DSA-questions/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/PushkarShinde/DSA-questions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3120-count-the-number-of-special-characters-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/PushkarShinde/DSA-questions/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/PushkarShinde/DSA-questions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PushkarShinde/DSA-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/PushkarShinde/DSA-questions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PushkarShinde/DSA-questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
