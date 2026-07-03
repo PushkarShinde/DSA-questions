@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3548-equal-sum-grid-partition-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PushkarShinde/DSA-questions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/PushkarShinde/DSA-questions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/PushkarShinde/DSA-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/PushkarShinde/DSA-questions/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PushkarShinde/DSA-questions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/PushkarShinde/DSA-questions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/PushkarShinde/DSA-questions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/PushkarShinde/DSA-questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -369,11 +371,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [1584-min-cost-to-connect-all-points](https://github.com/PushkarShinde/DSA-questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PushkarShinde/DSA-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/PushkarShinde/DSA-questions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/PushkarShinde/DSA-questions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/PushkarShinde/DSA-questions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/PushkarShinde/DSA-questions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PushkarShinde/DSA-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/PushkarShinde/DSA-questions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/PushkarShinde/DSA-questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -510,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/PushkarShinde/DSA-questions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -604,4 +610,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/PushkarShinde/DSA-questions/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
