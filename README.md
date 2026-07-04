@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/PushkarShinde/DSA-questions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PushkarShinde/DSA-questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/PushkarShinde/DSA-questions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PushkarShinde/DSA-questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/PushkarShinde/DSA-questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PushkarShinde/DSA-questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/PushkarShinde/DSA-questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PushkarShinde/DSA-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Backtracking
@@ -370,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/PushkarShinde/DSA-questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PushkarShinde/DSA-questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PushkarShinde/DSA-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/PushkarShinde/DSA-questions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
