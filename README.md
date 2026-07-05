@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/PushkarShinde/DSA-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/PushkarShinde/DSA-questions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/PushkarShinde/DSA-questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/PushkarShinde/DSA-questions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/PushkarShinde/DSA-questions/tree/main/1345-jump-game-iv/) | Hard |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0788-rotated-digits](https://github.com/PushkarShinde/DSA-questions/tree/main/0788-rotated-digits/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/PushkarShinde/DSA-questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/PushkarShinde/DSA-questions/tree/main/1340-jump-game-v/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0212-word-search-ii/) | Hard |
 | [0994-rotting-oranges](https://github.com/PushkarShinde/DSA-questions/tree/main/0994-rotting-oranges/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/PushkarShinde/DSA-questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/PushkarShinde/DSA-questions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
