@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3120-count-the-number-of-special-characters-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/PushkarShinde/DSA-questions/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/PushkarShinde/DSA-questions/tree/main/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PushkarShinde/DSA-questions/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PushkarShinde/DSA-questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/PushkarShinde/DSA-questions/tree/main/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
