@@ -633,4 +633,5 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/PushkarShinde/DSA-questions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/PushkarShinde/DSA-questions/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/PushkarShinde/DSA-questions/tree/main/0177-nth-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
