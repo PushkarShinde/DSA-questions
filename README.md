@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3742-maximum-path-score-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PushkarShinde/DSA-questions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/PushkarShinde/DSA-questions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/PushkarShinde/DSA-questions/tree/main/3976-maximum-subarray-sum-after-multiplier/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3742-maximum-path-score-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/PushkarShinde/DSA-questions/tree/main/3976-maximum-subarray-sum-after-multiplier/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
