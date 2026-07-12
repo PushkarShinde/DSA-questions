@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0874-walking-robot-simulation](https://github.com/PushkarShinde/DSA-questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2043-simple-bank-system](https://github.com/PushkarShinde/DSA-questions/tree/main/2043-simple-bank-system/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/PushkarShinde/DSA-questions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PushkarShinde/DSA-questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PushkarShinde/DSA-questions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
+| [2043-simple-bank-system](https://github.com/PushkarShinde/DSA-questions/tree/main/2043-simple-bank-system/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PushkarShinde/DSA-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2540-minimum-common-value](https://github.com/PushkarShinde/DSA-questions/tree/main/2540-minimum-common-value/) | Easy |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1622-fancy-sequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1622-fancy-sequence/) | Hard |
+| [2043-simple-bank-system](https://github.com/PushkarShinde/DSA-questions/tree/main/2043-simple-bank-system/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2043-simple-bank-system](https://github.com/PushkarShinde/DSA-questions/tree/main/2043-simple-bank-system/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PushkarShinde/DSA-questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/PushkarShinde/DSA-questions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PushkarShinde/DSA-questions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
