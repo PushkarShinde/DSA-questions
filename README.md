@@ -544,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/PushkarShinde/DSA-questions/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
+| [2543-check-if-point-is-reachable](https://github.com/PushkarShinde/DSA-questions/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PushkarShinde/DSA-questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -668,4 +669,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0175-combine-two-tables](https://github.com/PushkarShinde/DSA-questions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/PushkarShinde/DSA-questions/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/PushkarShinde/DSA-questions/tree/main/0177-nth-highest-salary/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2543-check-if-point-is-reachable](https://github.com/PushkarShinde/DSA-questions/tree/main/2543-check-if-point-is-reachable/) | Hard |
 <!---LeetCode Topics End-->
