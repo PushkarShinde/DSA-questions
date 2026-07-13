@@ -548,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PushkarShinde/DSA-questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/PushkarShinde/DSA-questions/tree/main/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/PushkarShinde/DSA-questions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -646,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/PushkarShinde/DSA-questions/tree/main/0062-unique-paths/) | Medium |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/PushkarShinde/DSA-questions/tree/main/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements/) | Hard |
 ## Strongly Connected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
