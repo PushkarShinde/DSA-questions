@@ -620,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/PushkarShinde/DSA-questions/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PushkarShinde/DSA-questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/PushkarShinde/DSA-questions/tree/main/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
