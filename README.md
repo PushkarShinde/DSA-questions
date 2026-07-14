@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2833-furthest-point-from-origin](https://github.com/PushkarShinde/DSA-questions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PushkarShinde/DSA-questions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PushkarShinde/DSA-questions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/PushkarShinde/DSA-questions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/PushkarShinde/DSA-questions/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2540-minimum-common-value](https://github.com/PushkarShinde/DSA-questions/tree/main/2540-minimum-common-value/) | Easy |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/PushkarShinde/DSA-questions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/PushkarShinde/DSA-questions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -607,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PushkarShinde/DSA-questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PushkarShinde/DSA-questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/PushkarShinde/DSA-questions/tree/main/2540-minimum-common-value/) | Easy |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -642,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/PushkarShinde/DSA-questions/tree/main/0796-rotate-string/) | Easy |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PushkarShinde/DSA-questions/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -675,4 +679,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2543-check-if-point-is-reachable](https://github.com/PushkarShinde/DSA-questions/tree/main/2543-check-if-point-is-reachable/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 <!---LeetCode Topics End-->
