@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1345-jump-game-iv](https://github.com/PushkarShinde/DSA-questions/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PushkarShinde/DSA-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PushkarShinde/DSA-questions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1306-jump-game-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/PushkarShinde/DSA-questions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1306-jump-game-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/PushkarShinde/DSA-questions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/PushkarShinde/DSA-questions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
@@ -596,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PushkarShinde/DSA-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PushkarShinde/DSA-questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
