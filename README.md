@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/PushkarShinde/DSA-questions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/PushkarShinde/DSA-questions/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/PushkarShinde/DSA-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PushkarShinde/DSA-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PushkarShinde/DSA-questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0874-walking-robot-simulation](https://github.com/PushkarShinde/DSA-questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/PushkarShinde/DSA-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1345-jump-game-iv](https://github.com/PushkarShinde/DSA-questions/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PushkarShinde/DSA-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PushkarShinde/DSA-questions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/PushkarShinde/DSA-questions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/PushkarShinde/DSA-questions/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/PushkarShinde/DSA-questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/PushkarShinde/DSA-questions/tree/main/1340-jump-game-v/) | Hard |
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/PushkarShinde/DSA-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PushkarShinde/DSA-questions/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1340-jump-game-v](https://github.com/PushkarShinde/DSA-questions/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PushkarShinde/DSA-questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/PushkarShinde/DSA-questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -353,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0365-water-and-jug-problem](https://github.com/PushkarShinde/DSA-questions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1306-jump-game-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -370,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/PushkarShinde/DSA-questions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0994-rotting-oranges](https://github.com/PushkarShinde/DSA-questions/tree/main/0994-rotting-oranges/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1306-jump-game-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/PushkarShinde/DSA-questions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -383,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/PushkarShinde/DSA-questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
