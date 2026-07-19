@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PushkarShinde/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/PushkarShinde/DSA-questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/PushkarShinde/DSA-questions/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/PushkarShinde/DSA-questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/PushkarShinde/DSA-questions/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -618,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PushkarShinde/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/PushkarShinde/DSA-questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
@@ -634,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PushkarShinde/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/PushkarShinde/DSA-questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PushkarShinde/DSA-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
