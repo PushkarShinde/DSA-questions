@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0403-frog-jump](https://github.com/PushkarShinde/DSA-questions/tree/main/0403-frog-jump/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PushkarShinde/DSA-questions/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PushkarShinde/DSA-questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/PushkarShinde/DSA-questions/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PushkarShinde/DSA-questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
