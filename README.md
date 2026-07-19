@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PushkarShinde/DSA-questions/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0815-bus-routes](https://github.com/PushkarShinde/DSA-questions/tree/main/0815-bus-routes/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/PushkarShinde/DSA-questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/PushkarShinde/DSA-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PushkarShinde/DSA-questions/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PushkarShinde/DSA-questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
+| [0815-bus-routes](https://github.com/PushkarShinde/DSA-questions/tree/main/0815-bus-routes/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/PushkarShinde/DSA-questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0994-rotting-oranges](https://github.com/PushkarShinde/DSA-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/PushkarShinde/DSA-questions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/PushkarShinde/DSA-questions/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0815-bus-routes](https://github.com/PushkarShinde/DSA-questions/tree/main/0815-bus-routes/) | Hard |
 | [0994-rotting-oranges](https://github.com/PushkarShinde/DSA-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1306-jump-game-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/1306-jump-game-iii/) | Medium |
