@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/PushkarShinde/DSA-questions/tree/main/0079-word-search/) | Medium |
+| [0113-path-sum-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/PushkarShinde/DSA-questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/PushkarShinde/DSA-questions/tree/main/0079-word-search/) | Medium |
+| [0113-path-sum-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0212-word-search-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PushkarShinde/DSA-questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -608,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/PushkarShinde/DSA-questions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0113-path-sum-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -621,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/PushkarShinde/DSA-questions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0113-path-sum-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PushkarShinde/DSA-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
