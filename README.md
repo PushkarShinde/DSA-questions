@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/PushkarShinde/DSA-questions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0212-word-search-ii/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/PushkarShinde/DSA-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0396-rotate-function](https://github.com/PushkarShinde/DSA-questions/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/PushkarShinde/DSA-questions/tree/main/0403-frog-jump/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/PushkarShinde/DSA-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/PushkarShinde/DSA-questions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/PushkarShinde/DSA-questions/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -502,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/PushkarShinde/DSA-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/PushkarShinde/DSA-questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
@@ -626,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/PushkarShinde/DSA-questions/tree/main/0061-rotate-list/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/PushkarShinde/DSA-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PushkarShinde/DSA-questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/PushkarShinde/DSA-questions/tree/main/1861-rotating-the-box/) | Medium |
