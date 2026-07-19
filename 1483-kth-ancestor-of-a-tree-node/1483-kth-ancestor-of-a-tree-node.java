@@ -1,19 +1,17 @@
 class TreeAncestor {
+    int log=17;
     int[][] up;
-    int log;
     public TreeAncestor(int n, int[] parent) {
-        this.log=0;
-        while((1<<log)<=n) log++;
-
-        this.up=new int[n][log];
+        up=new int[n][log];
         for(int i=0;i<n;i++){
             up[i][0]=parent[i];
         }
 
         for(int j=1;j<log;j++){
             for(int i=0;i<n;i++){
-                if(up[i][j-1]!=-1){
-                    up[i][j]=up[up[i][j-1]][j-1];
+                int intermediate=up[i][j-1];
+                if(intermediate!=-1){
+                    up[i][j]=up[intermediate][j-1];
                 }else{
                     up[i][j]=-1;
                 }
@@ -22,14 +20,14 @@ class TreeAncestor {
     }
     
     public int getKthAncestor(int node, int k) {
-        int u=node;
-        for(int j=0;j<log;j++){
-            if(((1<<j)&k)!=0){
-                u=up[u][j];
-                if(u==-1) return -1;
+        for(int j=log-1;j>=0;j--){
+            if((k&(1<<j))!=0){
+                node=up[node][j]; 
+                if(node==-1) return -1;
             }
         }
-        return u;
+
+        return node;
     }
 }
 
