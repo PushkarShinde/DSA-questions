@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/PushkarShinde/DSA-questions/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/PushkarShinde/DSA-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PushkarShinde/DSA-questions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PushkarShinde/DSA-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PushkarShinde/DSA-questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/PushkarShinde/DSA-questions/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/PushkarShinde/DSA-questions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/PushkarShinde/DSA-questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PushkarShinde/DSA-questions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1340-jump-game-v](https://github.com/PushkarShinde/DSA-questions/tree/main/1340-jump-game-v/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
