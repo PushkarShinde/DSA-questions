@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0212-word-search-ii/) | Hard |
 | [0564-find-the-closest-palindrome](https://github.com/PushkarShinde/DSA-questions/tree/main/0564-find-the-closest-palindrome/) | Hard |
+| [0647-palindromic-substrings](https://github.com/PushkarShinde/DSA-questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/PushkarShinde/DSA-questions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/PushkarShinde/DSA-questions/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/PushkarShinde/DSA-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/0337-house-robber-iii/) | Medium |
 | [0396-rotate-function](https://github.com/PushkarShinde/DSA-questions/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/PushkarShinde/DSA-questions/tree/main/0403-frog-jump/) | Hard |
+| [0647-palindromic-substrings](https://github.com/PushkarShinde/DSA-questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PushkarShinde/DSA-questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0788-rotated-digits](https://github.com/PushkarShinde/DSA-questions/tree/main/0788-rotated-digits/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
@@ -671,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/PushkarShinde/DSA-questions/tree/main/0061-rotate-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/PushkarShinde/DSA-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0475-heaters](https://github.com/PushkarShinde/DSA-questions/tree/main/0475-heaters/) | Medium |
+| [0647-palindromic-substrings](https://github.com/PushkarShinde/DSA-questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PushkarShinde/DSA-questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/PushkarShinde/DSA-questions/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PushkarShinde/DSA-questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
