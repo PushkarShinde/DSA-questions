@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/PushkarShinde/DSA-questions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/PushkarShinde/DSA-questions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1260-shift-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2043-simple-bank-system](https://github.com/PushkarShinde/DSA-questions/tree/main/2043-simple-bank-system/) | Medium |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/PushkarShinde/DSA-questions/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/PushkarShinde/DSA-questions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1260-shift-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/PushkarShinde/DSA-questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/PushkarShinde/DSA-questions/tree/main/1340-jump-game-v/) | Hard |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0212-word-search-ii/) | Hard |
 | [0994-rotting-oranges](https://github.com/PushkarShinde/DSA-questions/tree/main/0994-rotting-oranges/) | Medium |
+| [1260-shift-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/PushkarShinde/DSA-questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
