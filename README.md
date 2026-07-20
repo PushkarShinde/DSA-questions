@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0815-bus-routes](https://github.com/PushkarShinde/DSA-questions/tree/main/0815-bus-routes/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/PushkarShinde/DSA-questions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/PushkarShinde/DSA-questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/PushkarShinde/DSA-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0365-water-and-jug-problem](https://github.com/PushkarShinde/DSA-questions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/PushkarShinde/DSA-questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1306-jump-game-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/1306-jump-game-iii/) | Medium |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/PushkarShinde/DSA-questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PushkarShinde/DSA-questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -438,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/PushkarShinde/DSA-questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/PushkarShinde/DSA-questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/PushkarShinde/DSA-questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PushkarShinde/DSA-questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
