@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/PushkarShinde/DSA-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/PushkarShinde/DSA-questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/PushkarShinde/DSA-questions/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/PushkarShinde/DSA-questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0212-word-search-ii/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/PushkarShinde/DSA-questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PushkarShinde/DSA-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/PushkarShinde/DSA-questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/PushkarShinde/DSA-questions/tree/main/0198-house-robber/) | Medium |
 | [0337-house-robber-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/0337-house-robber-iii/) | Medium |
 | [0396-rotate-function](https://github.com/PushkarShinde/DSA-questions/tree/main/0396-rotate-function/) | Medium |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/PushkarShinde/DSA-questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/PushkarShinde/DSA-questions/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0113-path-sum-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/PushkarShinde/DSA-questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0212-word-search-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PushkarShinde/DSA-questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
