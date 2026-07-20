@@ -1,52 +1,62 @@
 class Solution {
-    class UnionFind{
+    class DSU{
+        int[] rank;
         int[] parent;
-        int[] size;
+        int n;
         int components;
-        UnionFind(int n){
-            parent=new int[n];
-            size=new int[n];
-            components=n;
-            for(int i=0;i<n;i++){
+        DSU(int n){
+            this.n=n;
+            rank=new int[n+1];
+            parent=new int[n+1];
+            for(int i=0;i<=n;i++){
                 parent[i]=i;
-                size[i]=1;
             }
+            components=n;
         }
+
         int find(int x){
-            if(parent[x]!=x){
-                return find(parent[x]);
+            if(x!=parent[x]){
+                parent[x] = find(parent[x]);
             }
             return parent[x];
         }
-        boolean union(int x, int y){
+
+        void union(int x, int y){
             int rootX=find(x);
             int rootY=find(y);
-            if(rootX==rootY){
-                return false;
-            }
-            if(size[rootX]<size[rootY]){
+            if (rootX == rootY) return;
+
+            if(rank[rootX]>rank[rootY]){
+                parent[rootY]=rootX;
+            }else if(rank[rootX]<rank[rootY]){
                 parent[rootX]=rootY;
-                size[rootY]+=size[rootX];
             }else{
                 parent[rootY]=rootX;
-                size[rootX]+=size[rootY];
+                rank[rootX]++;
             }
             components--;
-            return true;
         }
-    }
-    public int removeStones(int[][] stones){
+
+        int comps(){
+            return components;
+        }
+    } 
+    public int removeStones(int[][] stones) {
         int n=stones.length;
-        UnionFind uf=new UnionFind(n);
+        DSU dsu=new DSU(n);
+        
         for(int i=0;i<n;i++){
+            int[] a=stones[i];
+            int x=a[0];
+            int y=a[1];
             for(int j=i+1;j<n;j++){
-                int xi=stones[i][0], yi=stones[i][1];
-                int xj=stones[j][0], yj=stones[j][1];
-                if(xi==xj || yi==yj){
-                    uf.union(i,j);
-                }
+                int[] b=stones[j];
+                int p=b[0];
+                int q=b[1];
+
+                if(p==x || q==y) dsu.union(i,j);
             }
         }
-        return n-uf.components;
+        return n-dsu.comps();
     }
 }
