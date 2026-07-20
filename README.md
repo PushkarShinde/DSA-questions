@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PushkarShinde/DSA-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/PushkarShinde/DSA-questions/tree/main/0198-house-robber/) | Medium |
+| [0337-house-robber-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/0337-house-robber-iii/) | Medium |
 | [0396-rotate-function](https://github.com/PushkarShinde/DSA-questions/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/PushkarShinde/DSA-questions/tree/main/0403-frog-jump/) | Hard |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PushkarShinde/DSA-questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/PushkarShinde/DSA-questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/PushkarShinde/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/PushkarShinde/DSA-questions/tree/main/0207-course-schedule/) | Medium |
+| [0337-house-robber-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/0337-house-robber-iii/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/PushkarShinde/DSA-questions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PushkarShinde/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/PushkarShinde/DSA-questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0337-house-robber-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/0337-house-robber-iii/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -645,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PushkarShinde/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/PushkarShinde/DSA-questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0337-house-robber-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/0337-house-robber-iii/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
