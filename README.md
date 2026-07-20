@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/PushkarShinde/DSA-questions/tree/main/0079-word-search/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/0212-word-search-ii/) | Hard |
+| [0516-longest-palindromic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/PushkarShinde/DSA-questions/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0647-palindromic-substrings](https://github.com/PushkarShinde/DSA-questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/PushkarShinde/DSA-questions/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/PushkarShinde/DSA-questions/tree/main/0337-house-robber-iii/) | Medium |
 | [0396-rotate-function](https://github.com/PushkarShinde/DSA-questions/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/PushkarShinde/DSA-questions/tree/main/0403-frog-jump/) | Hard |
+| [0516-longest-palindromic-subsequence](https://github.com/PushkarShinde/DSA-questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/PushkarShinde/DSA-questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PushkarShinde/DSA-questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0788-rotated-digits](https://github.com/PushkarShinde/DSA-questions/tree/main/0788-rotated-digits/) | Medium |
