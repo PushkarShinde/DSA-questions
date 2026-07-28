@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/PushkarShinde/DSA-questions/tree/main/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PushkarShinde/DSA-questions/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/PushkarShinde/DSA-questions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2784-check-if-array-is-good](https://github.com/PushkarShinde/DSA-questions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/PushkarShinde/DSA-questions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/PushkarShinde/DSA-questions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PushkarShinde/DSA-questions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -751,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/PushkarShinde/DSA-questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PushkarShinde/DSA-questions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
