@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PushkarShinde/DSA-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/PushkarShinde/DSA-questions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PushkarShinde/DSA-questions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PushkarShinde/DSA-questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/PushkarShinde/DSA-questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PushkarShinde/DSA-questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PushkarShinde/DSA-questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PushkarShinde/DSA-questions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/PushkarShinde/DSA-questions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/PushkarShinde/DSA-questions/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PushkarShinde/DSA-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/PushkarShinde/DSA-questions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PushkarShinde/DSA-questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium |
@@ -504,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PushkarShinde/DSA-questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/PushkarShinde/DSA-questions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PushkarShinde/DSA-questions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/PushkarShinde/DSA-questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/PushkarShinde/DSA-questions/tree/main/1871-jump-game-vii/) | Medium |
@@ -559,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1235-maximum-profit-in-job-scheduling](https://github.com/PushkarShinde/DSA-questions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PushkarShinde/DSA-questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/PushkarShinde/DSA-questions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PushkarShinde/DSA-questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PushkarShinde/DSA-questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/PushkarShinde/DSA-questions/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/PushkarShinde/DSA-questions/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
