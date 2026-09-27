@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/PushkarShinde/DSA-questions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/PushkarShinde/DSA-questions/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/PushkarShinde/DSA-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PushkarShinde/DSA-questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/PushkarShinde/DSA-questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PushkarShinde/DSA-questions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PushkarShinde/DSA-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PushkarShinde/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PushkarShinde/DSA-questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/PushkarShinde/DSA-questions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PushkarShinde/DSA-questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/PushkarShinde/DSA-questions/tree/main/2751-robot-collisions/) | Hard |
@@ -793,4 +795,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/PushkarShinde/DSA-questions/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PushkarShinde/DSA-questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
